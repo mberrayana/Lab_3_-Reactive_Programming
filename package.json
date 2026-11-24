@@ -1,0 +1,11 @@
+{
+  "name": "rxjs-stock-ticker",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "rxjs": "^7.8.2"
+  }
+}
